@@ -693,7 +693,7 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
-			<dict>
+			<!-- <dict>
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
@@ -710,8 +710,8 @@
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
+			</dict> -->
+			<!-- <dict>
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
@@ -728,7 +728,7 @@
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
-			</dict>
+			</dict> -->
 			<dict>
 				<key>Arch</key>
 				<string>Any</string>
@@ -1686,8 +1686,8 @@
 			<string>Builtin</string>
 			<key>CustomDelays</key>
 			<false/>
-			<key>GraphicsInputMirroring</key>
-			<false/>
+			<!-- <key>GraphicsInputMirroring</key>
+			<false/> -->
 			<key>KeyInitialDelay</key>
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
